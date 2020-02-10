@@ -1,0 +1,25 @@
+
+/*
+  IMPORT BOOTSTRAP
+ */
+@import "node_modules/bootstrap/scss/bootstrap";
+
+/*
+  IMPORT FONTAWESOME
+ */
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+/*
+  IMPORT BRANDING DATA FROM VARIABLES
+ */
+@import "branding";
+
+/*
+  IMPORT COMMON STYLE
+ */
+@import "common";
+
+/*
+  IMPORT HOME PAGE STYLE
+ */
+@import "home";
