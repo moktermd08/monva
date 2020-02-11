@@ -1,4 +1,4 @@
-<tr>
+<tr style="background: black">
 <td class="header">
 <a href="{{ $url }}">
 {{ $slot }}

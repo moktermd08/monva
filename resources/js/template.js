@@ -15,8 +15,6 @@ $(window).on("scroll", function() {
 });
 
 let i = 2;
-
-
 $(document).ready(function() {
 	var radius = 200;
 	var fields = $('.itemDot');

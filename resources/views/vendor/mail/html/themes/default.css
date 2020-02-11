@@ -246,6 +246,19 @@ img {
     border-left: 18px solid #e3342f;
 }
 
+/*
+    BRANDING DEFAULT COLOR
+ */
+
+.button-branding {
+    background-color: #fdd402;
+    border-top: 10px solid #fdd402;
+    border-right: 18px solid #fdd402;
+    border-bottom: 10px solid #fdd402;
+    border-left: 18px solid #fdd402;
+}
+
+
 /* Panels */
 
 .panel {
